@@ -39,6 +39,10 @@ a {
     padding: 5px;
 }
 
+nav a {
+    display: block;
+}
+
 a:hover {
     color: #fda103;
     border-bottom: 2px solid #fda103;
